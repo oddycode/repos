@@ -1,2 +1,2 @@
 # repo-oddycode
-OddyCode Repo'S iOS Tweaks/Applications Test Projects.
+OddyCode Repo'S Tweaks/Applications Test Projects.
